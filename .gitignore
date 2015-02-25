@@ -1,0 +1,12 @@
+# Laravel 5 gitignores
+.env
+
+/vendor
+composer.lock
+
+/node_modules
+
+# General
+*.mp4
+*.mkv
+/public/video
